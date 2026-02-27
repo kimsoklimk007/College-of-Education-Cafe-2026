@@ -25,7 +25,7 @@
                             <p class="text-muted">Enter your password to unlock the screen!</p>
                         </div>
                         <div class="user-thumb text-center">
-                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" class="rounded-circle img-thumbnail avatar-lg material-shadow" alt="thumbnail">
+                            <img src="{{ asset('assets/images/kim soklim.png') }}" class="rounded-circle img-thumbnail avatar-lg material-shadow" alt="thumbnail">
                             <h5 class="font-size-15 mt-3">StarCode Kh</h5>
                         </div>
                         <div class="p-2 mt-4">

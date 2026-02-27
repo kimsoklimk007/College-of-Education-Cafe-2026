@@ -12,7 +12,7 @@
             <div class="row g-4">
                 <div class="col-auto">
                     <div class="avatar-lg">
-                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="user-img" class="img-thumbnail rounded-circle">
+                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="user-img" class="img-thumbnail rounded-circle">
                     </div>
                 </div>
                 <!--end col-->
@@ -205,7 +205,7 @@
                                             <div>
                                                 <div class="d-flex align-items-center py-3">
                                                     <div class="avatar-xs flex-shrink-0 me-3">
-                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="img-fluid rounded-circle material-shadow">
+                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="img-fluid rounded-circle material-shadow">
                                                     </div>
                                                     <div class="flex-grow-1">
                                                         <div>
@@ -219,7 +219,7 @@
                                                 </div>
                                                 <div class="d-flex align-items-center py-3">
                                                     <div class="avatar-xs flex-shrink-0 me-3">
-                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="img-fluid rounded-circle material-shadow">
+                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="img-fluid rounded-circle material-shadow">
                                                     </div>
                                                     <div class="flex-grow-1">
                                                         <div>
@@ -233,7 +233,7 @@
                                                 </div>
                                                 <div class="d-flex align-items-center py-3">
                                                     <div class="avatar-xs flex-shrink-0 me-3">
-                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="img-fluid rounded-circle material-shadow">
+                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="img-fluid rounded-circle material-shadow">
                                                     </div>
                                                     <div class="flex-grow-1">
                                                         <div>
@@ -272,7 +272,7 @@
                                             </div>
                                             <div class="d-flex mb-4">
                                                 <div class="flex-shrink-0">
-                                                    <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" height="50" class="rounded material-shadow">
+                                                    <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" height="50" class="rounded material-shadow">
                                                 </div>
                                                 <div class="flex-grow-1 ms-3 overflow-hidden">
                                                     <a href="javascript:void(0);">
@@ -283,7 +283,7 @@
                                             </div>
                                             <div class="d-flex mb-4">
                                                 <div class="flex-shrink-0">
-                                                    <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" height="50" class="rounded material-shadow">
+                                                    <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" height="50" class="rounded material-shadow">
                                                 </div>
                                                 <div class="flex-grow-1 ms-3 overflow-hidden">
                                                     <a href="javascript:void(0);">
@@ -294,7 +294,7 @@
                                             </div>
                                             <div class="d-flex">
                                                 <div class="flex-shrink-0">
-                                                    <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" height="50" class="rounded material-shadow">
+                                                    <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" height="50" class="rounded material-shadow">
                                                 </div>
                                                 <div class="flex-grow-1 ms-3 overflow-hidden">
                                                     <a href="javascript:void(0);">
@@ -385,7 +385,7 @@
                                                                             <a class="accordion-button p-2 shadow-none" data-bs-toggle="collapse" href="#collapseOne" aria-expanded="true">
                                                                                 <div class="d-flex">
                                                                                     <div class="flex-shrink-0">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle material-shadow">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle material-shadow">
                                                                                     </div>
                                                                                     <div class="flex-grow-1 ms-3">
                                                                                         <h6 class="fs-14 mb-1">
@@ -458,7 +458,7 @@
                                                                             <a class="accordion-button p-2 shadow-none" data-bs-toggle="collapse" href="#collapsethree" aria-expanded="false">
                                                                                 <div class="d-flex">
                                                                                     <div class="flex-shrink-0">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle material-shadow">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle material-shadow">
                                                                                     </div>
                                                                                     <div class="flex-grow-1 ms-3">
                                                                                         <h6 class="fs-14 mb-1"> New ticket received</h6>
@@ -507,7 +507,7 @@
                                                                             <a class="accordion-button p-2 shadow-none" data-bs-toggle="collapse" href="#collapseFive" aria-expanded="true">
                                                                                 <div class="d-flex">
                                                                                     <div class="flex-shrink-0">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle material-shadow">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle material-shadow">
                                                                                     </div>
                                                                                     <div class="flex-grow-1 ms-3">
                                                                                         <h6 class="fs-14 mb-1">
@@ -523,10 +523,10 @@
                                                                                 <p class="text-muted mb-2"> Every team project can have a Template. Use the Template to share information with your team to understand and contribute to your project.</p>
                                                                                 <div class="avatar-group">
                                                                                     <a href="javascript: void(0);" class="avatar-group-item" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-placement="top" title="" data-bs-original-title="Christi">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle avatar-xs material-shadow">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle avatar-xs material-shadow">
                                                                                     </a>
                                                                                     <a href="javascript: void(0);" class="avatar-group-item" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-placement="top" title="" data-bs-original-title="Frank Hook">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle avatar-xs material-shadow">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle avatar-xs material-shadow">
                                                                                     </a>
                                                                                     <a href="javascript: void(0);" class="avatar-group-item" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-placement="top" title="" data-bs-original-title=" Ruby">
                                                                                         <div class="avatar-xs">
@@ -558,7 +558,7 @@
                                                                             <a class="accordion-button p-2 shadow-none" data-bs-toggle="collapse" href="#collapse6" aria-expanded="true">
                                                                                 <div class="d-flex">
                                                                                     <div class="flex-shrink-0">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle material-shadow">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle material-shadow">
                                                                                     </div>
                                                                                     <div class="flex-grow-1 ms-3">
                                                                                         <h6 class="fs-14 mb-1">
@@ -629,19 +629,19 @@
                                                                                     <div class="col-xxl-6">
                                                                                         <div class="row border border-dashed gx-2 p-2">
                                                                                             <div class="col-3">
-                                                                                                <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="img-fluid rounded material-shadow">
+                                                                                                <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="img-fluid rounded material-shadow">
                                                                                             </div>
                                                                                             <!--end col-->
                                                                                             <div class="col-3">
-                                                                                                <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="img-fluid rounded material-shadow">
+                                                                                                <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="img-fluid rounded material-shadow">
                                                                                             </div>
                                                                                             <!--end col-->
                                                                                             <div class="col-3">
-                                                                                                <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="img-fluid rounded material-shadow">
+                                                                                                <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="img-fluid rounded material-shadow">
                                                                                             </div>
                                                                                             <!--end col-->
                                                                                             <div class="col-3">
-                                                                                                <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="img-fluid rounded material-shadow">
+                                                                                                <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="img-fluid rounded material-shadow">
                                                                                             </div>
                                                                                             <!--end col-->
                                                                                         </div>
@@ -656,7 +656,7 @@
                                                                             <a class="accordion-button p-2 shadow-none" data-bs-toggle="collapse" href="#collapse9" aria-expanded="false">
                                                                                 <div class="d-flex">
                                                                                     <div class="flex-shrink-0">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle material-shadow">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle material-shadow">
                                                                                     </div>
                                                                                     <div class="flex-grow-1 ms-3">
                                                                                         <h6 class="fs-14 mb-1">
@@ -673,7 +673,7 @@
                                                                             <a class="accordion-button p-2 shadow-none" data-bs-toggle="collapse" href="#collapse10" aria-expanded="true">
                                                                                 <div class="d-flex">
                                                                                     <div class="flex-shrink-0">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle material-shadow">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle material-shadow">
                                                                                     </div>
                                                                                     <div class="flex-grow-1 ms-3">
                                                                                         <h6 class="fs-14 mb-1">
@@ -781,7 +781,7 @@
                                                                             <a class="accordion-button p-2 shadow-none" data-bs-toggle="collapse" href="#collapse12" aria-expanded="true">
                                                                                 <div class="d-flex">
                                                                                     <div class="flex-shrink-0">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle material-shadow">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle material-shadow">
                                                                                     </div>
                                                                                     <div class="flex-grow-1 ms-3">
                                                                                         <h6 class="fs-14 mb-1">
@@ -818,7 +818,7 @@
                                                                             <a class="accordion-button p-2 shadow-none" data-bs-toggle="collapse" href="#collapse13" aria-expanded="false">
                                                                                 <div class="d-flex">
                                                                                     <div class="flex-shrink-0">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle material-shadow">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle material-shadow">
                                                                                     </div>
                                                                                     <div class="flex-grow-1 ms-3">
                                                                                         <h6 class="fs-14 mb-1">
@@ -869,7 +869,7 @@
                                                                             <a class="accordion-button p-2 shadow-none" data-bs-toggle="collapse" href="#collapse15" aria-expanded="true">
                                                                                 <div class="d-flex">
                                                                                     <div class="flex-shrink-0">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle material-shadow">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle material-shadow">
                                                                                     </div>
                                                                                     <div class="flex-grow-1 ms-3">
                                                                                         <h6 class="fs-14 mb-1">
@@ -892,10 +892,10 @@
                                                                                     project.</p>
                                                                                 <div class="avatar-group">
                                                                                     <a href="javascript: void(0);" class="avatar-group-item material-shadow" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-placement="top" title="" data-bs-original-title="Christi">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle avatar-xs">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle avatar-xs">
                                                                                     </a>
                                                                                     <a href="javascript: void(0);" class="avatar-group-item material-shadow" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-placement="top" title="" data-bs-original-title="Frank Hook">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle avatar-xs">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle avatar-xs">
                                                                                     </a>
                                                                                     <a href="javascript: void(0);" class="avatar-group-item material-shadow" data-bs-toggle="tooltip" data-bs-trigger="hover" data-bs-placement="top" title="" data-bs-original-title=" Ruby">
                                                                                         <div class="avatar-xs">
@@ -966,12 +966,12 @@
                                                                             <div class="avatar-group">
                                                                                 <div class="avatar-group-item material-shadow">
                                                                                     <div class="avatar-xs">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="avatar-group-item material-shadow">
                                                                                     <div class="avatar-xs">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="avatar-group-item material-shadow">
@@ -983,7 +983,7 @@
                                                                                 </div>
                                                                                 <div class="avatar-group-item material-shadow">
                                                                                     <div class="avatar-xs">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -1019,7 +1019,7 @@
                                                                             <div class="avatar-group">
                                                                                 <div class="avatar-group-item material-shadow">
                                                                                     <div class="avatar-xs">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="avatar-group-item material-shadow">
@@ -1059,7 +1059,7 @@
                                                                             <div class="avatar-group">
                                                                                 <div class="avatar-group-item material-shadow">
                                                                                     <div class="avatar-xs">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -1093,12 +1093,12 @@
                                                                             <div class="avatar-group">
                                                                                 <div class="avatar-group-item material-shadow">
                                                                                     <div class="avatar-xs">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="avatar-group-item material-shadow">
                                                                                     <div class="avatar-xs">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -1135,12 +1135,12 @@
                                                                             <div class="avatar-group">
                                                                                 <div class="avatar-group-item material-shadow">
                                                                                     <div class="avatar-xs">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="avatar-group-item material-shadow">
                                                                                     <div class="avatar-xs">
-                                                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                                     </div>
                                                                                 </div>
                                                                                 <div class="avatar-group-item material-shadow">
@@ -1180,7 +1180,7 @@
                                     <div class="acitivity-timeline">
                                         <div class="acitivity-item d-flex">
                                             <div class="flex-shrink-0">
-                                                <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle acitivity-avatar material-shadow">
+                                                <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle acitivity-avatar material-shadow">
                                             </div>
                                             <div class="flex-grow-1 ms-3">
                                                 <h6 class="mb-1">Oliver Phillips <span class="badge bg-primary-subtle text-primary align-middle">New</span></h6>
@@ -1199,10 +1199,10 @@
                                                 <p class="text-muted mb-2"><i class="ri-file-text-line align-middle ms-2"></i> Create new project Buildng product</p>
                                                 <div class="avatar-group mb-2">
                                                     <a href="javascript: void(0);" class="avatar-group-item material-shadow" data-bs-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Christi">
-                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle avatar-xs">
+                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle avatar-xs">
                                                     </a>
                                                     <a href="javascript: void(0);" class="avatar-group-item material-shadow" data-bs-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Frank Hook">
-                                                        <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle avatar-xs">
+                                                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle avatar-xs">
                                                     </a>
                                                     <a href="javascript: void(0);" class="avatar-group-item material-shadow" data-bs-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title=" Ruby">
                                                         <div class="avatar-xs">
@@ -1224,7 +1224,7 @@
                                         </div>
                                         <div class="acitivity-item py-3 d-flex">
                                             <div class="flex-shrink-0">
-                                                <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle acitivity-avatar material-shadow">
+                                                <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle acitivity-avatar material-shadow">
                                             </div>
                                             <div class="flex-grow-1 ms-3">
                                                 <h6 class="mb-1">Natasha Carey <span class="badge bg-success-subtle text-success align-middle">Completed</span>
@@ -1254,7 +1254,7 @@
                                         </div>
                                         <div class="acitivity-item py-3 d-flex">
                                             <div class="flex-shrink-0">
-                                                <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle acitivity-avatar material-shadow">
+                                                <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle acitivity-avatar material-shadow">
                                             </div>
                                             <div class="flex-grow-1 ms-3">
                                                 <h6 class="mb-1">Bethany Johnson</h6>
@@ -1278,7 +1278,7 @@
                                         </div>
                                         <div class="acitivity-item py-3 d-flex">
                                             <div class="flex-shrink-0">
-                                                <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle acitivity-avatar material-shadow">
+                                                <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle acitivity-avatar material-shadow">
                                             </div>
                                             <div class="flex-grow-1 ms-3">
                                                 <h6 class="mb-1">Lewis Pratt</h6>
@@ -1306,7 +1306,7 @@
                                         </div>
                                         <div class="acitivity-item d-flex">
                                             <div class="flex-shrink-0">
-                                                <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle acitivity-avatar material-shadow">
+                                                <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle acitivity-avatar material-shadow">
                                             </div>
                                             <div class="flex-grow-1 ms-3">
                                                 <h6 class="mb-1">New ticket received <span class="badge bg-success-subtle text-success align-middle">Completed</span></h6>
@@ -1347,12 +1347,12 @@
                                                                 <div class="avatar-group">
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
@@ -1394,17 +1394,17 @@
                                                                 <div class="avatar-group">
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
@@ -1446,7 +1446,7 @@
                                                                 <div class="avatar-group">
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
@@ -1458,7 +1458,7 @@
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1493,7 +1493,7 @@
                                                                 <div class="avatar-group">
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
@@ -1533,12 +1533,12 @@
                                                                 <div class="avatar-group">
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
@@ -1587,12 +1587,12 @@
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1627,7 +1627,7 @@
                                                                 <div class="avatar-group">
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
@@ -1637,7 +1637,7 @@
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1672,7 +1672,7 @@
                                                                 <div class="avatar-group">
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -1706,17 +1706,17 @@
                                                                 <div class="avatar-group">
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
@@ -1757,7 +1757,7 @@
                                                                 <div class="avatar-group">
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
@@ -1796,12 +1796,12 @@
                                                                 <div class="avatar-group">
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                     <div class="avatar-group-item material-shadow">
@@ -1845,7 +1845,7 @@
                                                                 <div class="avatar-group">
                                                                     <div class="avatar-group-item material-shadow">
                                                                         <div class="avatar-xs">
-                                                                            <img src="{{ asset('assets/images/avatar-1.jpg') }}" alt="" class="rounded-circle img-fluid">
+                                                                            <img src="{{ asset('assets/images/kim soklim.png') }}" alt="" class="rounded-circle img-fluid">
                                                                         </div>
                                                                     </div>
                                                                 </div>

@@ -4,7 +4,7 @@ return [
     'menu' => [
         [
             'title'  => 'Dashboards',
-            'icon'   => 'ri-dashboard-2-line',
+            'icon'   => 'ri-dashboard-line',
             'id'     => 'sidebarDashboards',
             'key'    => 't-dashboards',
             'active' => ['home', 'dashboard*'], 
@@ -25,16 +25,24 @@ return [
                     'key'    => 't-ecommerce',
                     'active' => ['apps-ecommerce*'],
                     'items'  => [
-                        ['route' => 'apps-ecommerce/products',        'label' => 'Products',        'key' => 't-products'],
-                        ['route' => 'apps-ecommerce/product-details', 'label' => 'Product Details', 'key' => 't-product-details'],
-                        ['route' => 'apps-ecommerce/add-product',     'label' => 'Create Product',  'key' => 't-create-product'],
-                        ['route' => 'apps-ecommerce/orders',          'label' => 'Orders',          'key' => 't-orders'],
-                        ['route' => 'apps-ecommerce/order-details',   'label' => 'Order Details',   'key' => 't-order-details'],
-                        ['route' => 'apps-ecommerce/customers',       'label' => 'Customers',       'key' => 't-customers'],
-                        ['route' => 'apps-ecommerce/cart',            'label' => 'Shopping Cart',   'key' => 't-shopping-cart'],
-                        ['route' => 'apps-ecommerce/checkout',        'label' => 'Checkout',        'key' => 't-checkout'],
-                        ['route' => 'apps-ecommerce/sellers',         'label' => 'Sellers',         'key' => 't-sellers'],
-                        ['route' => 'apps-ecommerce/seller-details',  'label' => 'Seller Details',  'key' => 't-sellers-details'],
+                        ['route' => 'apps-ecommerce/products', 'label' => 'Products', 'key' => 't-products'],
+                        ['route' => 'apps-ecommerce/product-details',
+                         'label' => 'Product Details', 'key' => 't-product-details'],
+                        ['route' => 'apps-ecommerce/add-product',
+                         'label' => 'Create Product', 'key' => 't-create-product'],
+                        ['route' => 'apps-ecommerce/orders', 'label' => 'Orders', 'key' => 't-orders'],
+                        ['route' => 'apps-ecommerce/order-details',
+                         'label' => 'Order Details', 'key' => 't-order-details'],
+                        ['route' => 'apps-ecommerce/customers', 'label' => 'Customers',
+                         'key' => 't-customers'],
+                        ['route' => 'apps-ecommerce/cart', 'label' => 'Shopping Cart',
+                         'key' => 't-shopping-cart'],
+                        ['route' => 'apps-ecommerce/checkout', 'label' => 'Checkout',
+                         'key' => 't-checkout'],
+                        ['route' => 'apps-ecommerce/sellers', 'label' => 'Sellers',
+                         'key' => 't-sellers'],
+                        ['route' => 'apps-ecommerce/seller-details',
+                         'label' => 'Seller Details', 'key' => 't-sellers-details'],
                     ]
                 ],
                 [
@@ -54,7 +62,7 @@ return [
             'title'  => 'Pages',
             'icon'   => 'ri-pages-line',
             'id'     => 'sidebarPages',
-            'key'    => 't-pages', // Added key
+            'key'    => 't-pages',
             'active' => ['pages*'],
             'submenu' => [
                 [

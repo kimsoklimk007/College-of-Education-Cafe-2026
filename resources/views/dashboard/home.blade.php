@@ -3,6 +3,23 @@
 @section('content')
     <!-- Page-content -->
     <div class="container-fluid">
+        <!-- Start page title -->
+        <div class="row">
+            <div class="col-12">
+                <div class="page-title-box d-sm-flex align-items-center justify-content-between">
+                    <div class="d-flex align-items-center">
+                        <img src="{{ asset('assets/images/kim soklim.png') }}" alt="Home Dashboard" style="width: 24px; height: 24px; object-fit: cover; border-radius: 4px; margin-right: 12px;">
+                        <h4 class="mb-sm-0">Home Dashboard</h4>
+                    </div>
+                    <div class="page-title-right">
+                        <ol class="breadcrumb m-0">
+                            <li class="breadcrumb-item active">Home Dashboard</li>
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End page title -->
         <div class="row">
             <div class="col">
                 <div class="h-100">
@@ -735,7 +752,7 @@
                                                     <td>
                                                         <div class="d-flex align-items-center">
                                                             <div class="flex-shrink-0 me-2">
-                                                                <img src="{{ asset('assets/images/users/avatar-1.jpg') }}" alt="" class="avatar-xs rounded-circle material-shadow" />
+                                                                <img src="{{ asset('assets/images/users/kim soklim.png') }}" alt="" class="avatar-xs rounded-circle material-shadow" />
                                                             </div>
                                                             <div class="flex-grow-1">Alex Smith</div>
                                                         </div>

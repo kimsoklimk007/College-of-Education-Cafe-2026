@@ -26,7 +26,7 @@ var invoice_new_obj, str_dt = function(e) {
     Invoices = [{
         invoice_no: "25000351",
         customer: "Valentine Morin",
-        img: window.location.origin + "/assets/images/users/avatar-1.jpg",
+        img: window.location.origin + "/assets/images/users/kim soklim.png",
         email: "euismod.enim@outlook.net",
         date: new Date(2021, 3, d - 23, 21, 58),
         invoice_amount: 875,
@@ -514,7 +514,7 @@ var invoice_new_obj, str_dt = function(e) {
     }, {
         invoice_no: "25000359",
         customer: "Christian Cardenas",
-        img: window.location.origin + "/assets/images/users/avatar-1.jpg",
+        img: window.location.origin + "/assets/images/users/kim soklim.png",
         email: "id.erat@aol.org",
         date: new Date(2022, 1, d - 20, 21, 58),
         invoice_amount: 875,
@@ -941,7 +941,7 @@ var invoice_new_obj, str_dt = function(e) {
     }, {
         invoice_no: "25000366",
         customer: "Paki Grimes",
-        img: window.location.origin + "/assets/images/users/avatar-1.jpg",
+        img: window.location.origin + "/assets/images/users/kim soklim.png",
         email: "ante.lectus.convallis@google.com",
         date: new Date(2021, 3, d - 23, 21, 58),
         invoice_amount: 875,
@@ -1246,7 +1246,7 @@ var invoice_new_obj, str_dt = function(e) {
     }, {
         invoice_no: "25000371",
         customer: "Ashton Head",
-        img: window.location.origin + "/assets/images/users/avatar-1.jpg",
+        img: window.location.origin + "/assets/images/users/kim soklim.png",
         email: "cras@outlook.edu",
         date: new Date(2021, 3, d - 23, 21, 58),
         invoice_amount: 875,
